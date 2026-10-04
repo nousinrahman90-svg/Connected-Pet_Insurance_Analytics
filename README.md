@@ -15,7 +15,7 @@ This project analyzes pet insura*ce adoption, affordability, claims* complaints,
 #* outputs
 
 ## Protection Gap Analysis
-output/chart1_protection_gap.png
+outputs/Chart.js-preview (1).png
 
 - Premium Inflation vs Enrollmen* Growth
 - Dog vs Cat Coverage Comp*rison
