@@ -1,0 +1,12 @@
+These charts use sample/demo data because the public NAPHIA, AVMA, APPA, NAIC, and Kaggle datasets were not actually loaded into the generated dashboard. For a GitHub portfolio project, I strongly recommend using real datasets and creating more professional visualizations such as:
+
+Interactive Plotly dashboards
+Protection Gap Treemap
+Premium Inflation Heatmap
+Claims Denial Analysis
+State-Level Choropleth Map
+Complaint Category Breakdown
+Pet Spending vs Insurance Adoption Scatterplot
+Forecasting of Insurance Penetration (2025-2030)
+
+These would make the project much stronger for data analyst and data scientist portfolios.
