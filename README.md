@@ -14,17 +14,23 @@ This project analyzes pet insura*ce adoption, affordability, claims* complaints,
 
 #* outputs
 
-## Protection Gap Analysis
-outputs/Chart.js-preview (1).png
+## Output Charts
 
-- Premium Inflation vs Enrollmen* Growth
-- Dog vs Cat Coverage Comp*rison
-- Veterinary Cost Analytics
-* Insurance ROI Analysis
-- Claim De*ial Trends
-- Complaint Analytics
--*State Penetration Map
-- Industry L*mitation Radar
+![Chart 1](<outputs/Chart.js-preview.png>)
+
+![Chart 2](<outputs/Chart.js-preview (1).png>)
+
+![Chart 3](<outputs/Chart.js-preview (2).png>)
+
+![Chart 4](<outputs/Chart.js-preview (3).png>)
+
+![Chart 5](<outputs/Chart.js-preview (4).png>)
+
+![Chart 6](<outputs/Chart.js-preview (5).png>)
+
+![Chart 7](<outputs/Chart.js-preview (6).png>)
+
+![Industry Limitation Radar](outputs/chart8_radar.png)
 
 ## Tech Stack
 
