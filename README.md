@@ -3,7 +3,7 @@ Run: streamlit run pet_insurance_dashboard.py
 
 # Pet Insurance Analytics Dashboard
 
-## Overvie*
+## Overview
 
 This project analyzes pet insura*ce adoption, affordability, claims* complaints, and market limitation* using data from:
 
@@ -34,14 +34,14 @@ This project analyzes pet insura*ce adoption, affordability, claims* complaints,
 
 ## Tech Stack
 
-- P*thon
+- Python
 - Pandas
 - Plotly
 - Streamlit*
 ## Installation
 
 ```bash
-pip inst*ll -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run*
@@ -58,5 +58,5 @@ streamlit run pet_insuran*e_dashboard.py
 - 95%+ of pets remain uni*sured
 - Premiums growing faster th*n enrollment
 - Cats are significan*ly underinsured
-- Claim denials re*ain a major user concern
-- Afforda*ility is the largest market barrie*
+- Claim denials remain a major user concern
+- Affordability is the largest market barrier
