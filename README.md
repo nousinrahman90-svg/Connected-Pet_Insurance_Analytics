@@ -12,7 +12,7 @@ This project analyzes pet insura*ce adoption, affordability, claims* complaints,
 - NAIC
 - Kaggle datasets
 
-#* Features
+#* outputs
 
 - Protection Gap Analys*s
 - Premium Inflation vs Enrollmen* Growth
