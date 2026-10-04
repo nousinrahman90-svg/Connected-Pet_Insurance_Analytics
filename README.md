@@ -1,7 +1,7 @@
 # Pet Insurance Dashboard
 Run: streamlit run pet_insurance_dashboard.py
 
-# Pet Insura*ce Analytics Dashboard
+# Pet Insurance Analytics Dashboard
 
 ## Overvie*
 
@@ -15,7 +15,7 @@ This project analyzes pet insura*ce adoption, affordability, claims* complaints,
 #* outputs
 
 ## Protection Gap Analysis
-outputs/Chart.js-preview (1).png
+![protection gap analysis](outputs/Chart.js-preview (1).png)
 
 - Premium Inflation vs Enrollmen* Growth
 - Dog vs Cat Coverage Comp*rison
