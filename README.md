@@ -53,10 +53,10 @@ streamlit run pet_insuran*e_dashboard.py
 
 (Add screenshots here)
 
-## *nsights
+## Insights
 
-- 95%+ of pets remain uni*sured
+- 95%+ of pets remain uninsured
 - Premiums growing faster th*n enrollment
-- Cats are significan*ly underinsured
+- Cats are significantly underinsured
 - Claim denials remain a major user concern
 - Affordability is the largest market barrier
